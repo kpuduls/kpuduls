@@ -4,7 +4,7 @@
 
 Hey there 👋
 
-I’m Krisjanis, a junior electronics engineer, data science enthusiast, creative coder and self-proclaimed python developer.
+I’m Krisjanis, a junior electronics engineer, aspiring data scientist, creative coder and self-proclaimed python developer.
 I make it my mission to introduce control engineering to the wider open-source community and try combine it with some data science / machine learning.
 To make it all more interesting, I am using tools that are free to use and written in python.
 
@@ -36,7 +36,7 @@ To make it all more interesting, I am using tools that are free to use and writt
 </a>
 
 <a href="https://github.com/kpuduls">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kpuduls&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kpuduls&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Krisjanis github stats" />
 </a>
 
 <br>
@@ -61,10 +61,10 @@ To make it all more interesting, I am using tools that are free to use and writt
 <br>
 
 ![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 </details>
 
