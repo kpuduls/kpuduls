@@ -1,6 +1,7 @@
 ![Banner](/media/Header.png)
 ![Visits Badge](https://badges.pufler.dev/visits/kpuduls/kpuduls)
 [![Udemy Badge](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/home/my-courses/learning/)
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/krisjanispuduls)
 
 Hey there 👋
 
