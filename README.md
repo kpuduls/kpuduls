@@ -1,5 +1,5 @@
 [![Banner](/media/Header.png)](url)
-[![Visits Badge](https://badges.pufler.dev/visits/kpuduls/kpuduls)]
+![Visits Badge](https://badges.pufler.dev/visits/kpuduls/kpuduls)
 [![Udemy Badge](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/home/my-courses/learning/)
 
 Hey there 👋
