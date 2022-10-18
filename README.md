@@ -5,11 +5,6 @@
 
 Hey there 👋
 
-I’m Krisjanis, an aspiring data scientist, creative coder and self-proclaimed developer.
-I make it my mission to introduce control engineering to the wider open-source community and try combine it with some data science / machine learning.
-To make it all more interesting, I am using tools that are free to use and written in python.
-
-
 ## 📌 Pinned Repositories
 
 <br>
