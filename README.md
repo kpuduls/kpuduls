@@ -21,6 +21,11 @@ Hey there 👋
 
 
 <br>
+
+<a href="https://github.com/kpuduls/stm32f4xx">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kpuduls&repo=data-science-pipeline&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 <br>
 
 ## &#x1f4c8; GitHub Stats
